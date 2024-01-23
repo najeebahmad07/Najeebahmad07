@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,C,C++,JAVA**
 
-- 📫 How to reach me **njb07@gmail.com**
+- 📫 How to reach me **njbdev07@gmail.com**
 
 - 📄 Know about my experiences [https://najeebahmad07.github.io/najeebportfolio/](https://najeebahmad07.github.io/najeebportfolio/)
 
