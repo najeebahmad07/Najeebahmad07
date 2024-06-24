@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python,PHP,Android**
 
-- 👨‍💻 All of my projects are available at [https://najeebahmad07.github.io/najeebportfolio/](https://najeebahmad07.github.io/najeebportfolio/)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/najeebahmad07](https://linktr.ee/najeebahmad07)
 
 - 📝 I regularly write articles on [http://najeebahmad07.blogspot.com/](http://najeebahmad07.blogspot.com/)
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **njbdev07@gmail.com**
 
-- 📄 Know about my experiences [https://najeebahmad07.github.io/najeebportfolio/](https://najeebahmad07.github.io/najeebportfolio/)
+- 📄 Know about my experiences [https://najeebportfolio.netlify.app/]( https://najeebportfolio.netlify.app/)
 
 - ⚡ Fun fact **I think I'm Funny**
 
