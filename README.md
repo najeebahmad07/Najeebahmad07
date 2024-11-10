@@ -13,6 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrnajeeb07" target="blank"><img src="https://img.shields.io/twitter/follow/mrnajeeb07?logo=twitter&style=for-the-badge" alt="mrnajeeb07" /></a> </p>
 
+- 📖 Resume  [Click Here](https://drive.google.com/file/d/1nfRWUOlH_0L8N2l_S_2IbdFEqPs_qiqb/view?usp=sharing)
 - 🔭 I’m currently working on [Attendence Management](https://jpaattendence.vercel.app/)
 
 - 🌱 I’m currently learning **Python,PHP,Android**
@@ -21,7 +22,7 @@
 
 - 📝 I regularly write articles on [Click Here 😊](http://najeebahmad07.blogspot.com/)
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,C,C++,JAVA**
+- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,Wordpress,C,C++,JAVA**
 
 - 📫 How to reach me **najeeb@ultragits.com**
 
