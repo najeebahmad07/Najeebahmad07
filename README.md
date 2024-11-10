@@ -19,13 +19,13 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/najeebahmad07](https://linktr.ee/najeebahmad07)
 
-- 📝 I regularly write articles on [http://najeebahmad07.blogspot.com/](http://najeebahmad07.blogspot.com/)
+- 📝 I regularly write articles on [Click Here 😊](http://najeebahmad07.blogspot.com/)
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,C,C++,JAVA**
 
-- 📫 How to reach me **njbdev07@gmail.com**
+- 📫 How to reach me **najeeb@ultragits.com**
 
-- 📄 Know about my experiences [https://najeebportfolio.netlify.app/]( https://najeebportfolio.netlify.app/)
+- 📄 Know about my experiences [See 👁️](https://drive.google.com/file/d/1nfRWUOlH_0L8N2l_S_2IbdFEqPs_qiqb/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Funny**
 
