@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/5eKX.gif" alt="logo" height="200" />
+  <img src="https://i.gifer.com/5eKX.gif" alt="logo" height="200" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Najeeb Ahmad</h1>
