@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **najeeb@ultragits.com**
 
-- 📄 Know about my experiences [See 👁️](https://drive.google.com/file/d/13u6c7uc-Hu5uAEZBjO8XvOw_LjZEEOwf/view?usp=sharing)
+- 📄 Know about my experiences [See 👁️](https://najeebahmad07.xyz/)
 
 - ⚡ Fun fact **I think I'm Funny**
 
