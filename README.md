@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrnajeeb07" target="blank"><img src="https://img.shields.io/twitter/follow/mrnajeeb07?logo=twitter&style=for-the-badge" alt="mrnajeeb07" /></a> </p>
 
-- 📖 Resume  [Click Here](https://drive.google.com/file/d/1nfRWUOlH_0L8N2l_S_2IbdFEqPs_qiqb/view?usp=sharing)
+- 📖 Resume  [Click Here](https://drive.google.com/file/d/1CZ8Ea4I97PEIxIxZ3qSA17xmtv7Prj3H/view?usp=sharing)
 - 🔭 I’m currently working on [Medezy Institute Of Sciences Patna](https://medezypatna.com/)
 
 - 🌱 I’m currently learning **Python,PHP,Android**
