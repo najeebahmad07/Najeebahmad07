@@ -1,0 +1,21 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest posts from Blogger
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://najeebahmad07.blogspot.com/feeds/posts/default?alt=rss"
+          max_post_count: 5
