@@ -1,7 +1,4 @@
-<!-- ================================================================
-     NAJEEB AHMAD — GitHub Profile README (Dark + Animated)
-     Repo must be named exactly like your username: najeebahmad07/najeebahmad07
-     ================================================================ -->
+
 
 <div align="center">
 
@@ -21,9 +18,9 @@
 <br/><br/>
 
 <!-- ░░░░░░░░░░ SOCIAL BADGES ░░░░░░░░░░ -->
-<a href="http://najeebahmad07.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
-<a href="https://najeebahmad07.xyz/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:najeeb@ultragits.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+ 
+<a href="https://linktr.ee/najeebahmad07"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:njbdev07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/najeeb-ahmad-b40514257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/mrnajeeb07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
 <a href="https://www.facebook.com/najeeb.ji.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
