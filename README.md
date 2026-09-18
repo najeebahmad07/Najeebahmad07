@@ -39,14 +39,14 @@ name:        Najeeb Ahmad
 role:        Web Developer & Tech Blogger
 ask_me_about: [HTML, CSS, JavaScript, Bootstrap, WordPress, C, C++, Java]
 writing:     regularly publishes articles on his blog
-reach_me:    najeeb@ultragits.com
+reach_me:    njbdev07@gmail.com
 fun_fact:    "I think I'm funny 😄"
 ```
 
 - 📝 I regularly write articles → **[Read my blog](http://najeebahmad07.blogspot.com/)**
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, WordPress, C, C++, Java**
 - 📄 Want to know about my experience? → **[See my portfolio](https://najeebahmad07.xyz/)**
-- 📫 How to reach me → **najeeb@ultragits.com**
+- 📫 How to reach me → **njbdev07@gmail.com**
 - ⚡ Fun fact → **I think I'm funny**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
