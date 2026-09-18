@@ -1,52 +1,141 @@
+<!-- ================================================================
+     NAJEEB AHMAD — GitHub Profile README (Dark + Animated)
+     Repo must be named exactly like your username: najeebahmad07/najeebahmad07
+     ================================================================ -->
+
 <div align="center">
-  <img src="https://i.gifer.com/5eKX.gif" alt="logo" height="400" width="100%" />
+
+<!-- ░░░░░░░░░░ ANIMATED HEADER ░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:58a6ff&height=230&section=header&text=Najeeb%20Ahmad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%26%20Tech%20Blogger&descSize=20&descAlignY=58" width="100%" alt="Najeeb Ahmad banner" />
+
+<!-- ░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░ -->
+<a href="https://najeebahmad07.xyz/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Hi+there%2C+I%27m+Najeeb+%F0%9F%91%8B;I+build+websites+with+HTML%2C+CSS+%26+JavaScript;WordPress+%7C+Bootstrap+%7C+PHP+%7C+MySQL;I+also+write+C%2C+C%2B%2B+%26+Java;I+think+I%27m+funny+%F0%9F%98%84" alt="Typing animation" />
+</a>
+
+<br/>
+
+<!-- ░░░░░░░░░░ PROFILE VIEWS ░░░░░░░░░░ -->
+<img src="https://komarev.com/ghpvc/?username=najeebahmad07&label=Profile%20Views&color=58a6ff&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
+
+<br/><br/>
+
+<!-- ░░░░░░░░░░ SOCIAL BADGES ░░░░░░░░░░ -->
+<a href="http://najeebahmad07.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+<a href="https://najeebahmad07.xyz/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:najeeb@ultragits.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/najeeb-ahmad-b40514257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/mrnajeeb07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+<a href="https://www.facebook.com/najeeb.ji.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/najeeb__ahmad__07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://youtube.com/@najeebahmad07"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Najeeb Ahmad</h1>
-<h3 align="center">🪴A passionate Full Developer 🪴</h3>
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" alt="coding" width="400">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
 
+<!-- ░░░░░░░░░░ ABOUT ME ░░░░░░░░░░ -->
+## 👨‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=najeebahmad07&label=Profile%20views&color=0e75b6&style=flat" alt="najeebahmad07" /> </p>
+```yaml
+name:        Najeeb Ahmad
+role:        Web Developer & Tech Blogger
+ask_me_about: [HTML, CSS, JavaScript, Bootstrap, WordPress, C, C++, Java]
+writing:     regularly publishes articles on his blog
+reach_me:    najeeb@ultragits.com
+fun_fact:    "I think I'm funny 😄"
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najeebahmad07" alt="najeebahmad07" /></a> </p>
+- 📝 I regularly write articles → **[Read my blog](http://najeebahmad07.blogspot.com/)**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap, WordPress, C, C++, Java**
+- 📄 Want to know about my experience? → **[See my portfolio](https://najeebahmad07.xyz/)**
+- 📫 How to reach me → **najeeb@ultragits.com**
+- ⚡ Fun fact → **I think I'm funny**
 
-<p align="left"> <a href="https://twitter.com/mrnajeeb07" target="blank"><img src="https://img.shields.io/twitter/follow/mrnajeeb07?logo=twitter&style=for-the-badge" alt="mrnajeeb07" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
 
-- 📖 Resume  [Click Here](https://linktr.ee/najeebahmad07)
-- 🔭 I’m currently working on [Medezy Institute Of Sciences Patna](https://medezypatna.com/)
+<!-- ░░░░░░░░░░ TECH STACK ░░░░░░░░░░ -->
+## 🛠️ Languages & Tools
 
-- 🌱 I’m currently learning **Python,PHP,Android**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,c,cpp,java,php,py,mysql,git,github,vscode,androidstudio&theme=dark&perline=8" alt="Tech stack icons" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/najeebahmad07](https://linktr.ee/najeebahmad07)
+<br/>
 
-- 📝 I regularly write articles on [Click Here 😊](http://najeebahmad07.blogspot.com/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,Wordpress,C,C++,JAVA**
+<!-- ░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░ -->
+## 📊 GitHub Stats
 
-- 📫 How to reach me **najeeb@ultragits.com**
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=najeebahmad07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najeebahmad07&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&bg_color=0d1117" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=najeebahmad07&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117" alt="GitHub streak" />
+</div>
 
-- 📄 Know about my experiences [See 👁️](https://najeebahmad07.xyz/)
+<!-- ░░░░░░░░░░ CONTRIBUTION GRAPH ░░░░░░░░░░ -->
+## 📈 Contribution Graph
 
-- ⚡ Fun fact **I think I'm Funny**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najeebahmad07&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrnajeeb07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrnajeeb07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/najeeb-ahmad-b40514257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/najeeb-ahmad-b40514257/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/najeeb.ji.5?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/najeeb.ji.5?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/najeeb__ahmad__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/najeeb__ahmad__07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@najeebahmad07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@najeebahmad07" height="30" width="40" /></a>
-</p>
+<!-- ░░░░░░░░░░ TROPHIES ░░░░░░░░░░ -->
+## 🏆 Trophies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=najeebahmad07&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/najeebahmad07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="najeebahmad07" /></a></p><br><br>
+<!-- ░░░░░░░░░░ SNAKE ANIMATION (needs snake.yml workflow) ░░░░░░░░░░ -->
+## 🐍 Contribution Snake
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebahmad07&show_icons=true&locale=en&layout=compact" alt="najeebahmad07" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najeebahmad07/najeebahmad07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najeebahmad07/najeebahmad07/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/najeebahmad07/najeebahmad07/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najeebahmad07&show_icons=true&locale=en" alt="najeebahmad07" /></p>
+<!-- ░░░░░░░░░░ PINNED PROJECTS (optional) ░░░░░░░░░░
+     1. Replace YOUR_REPO_1 / YOUR_REPO_2 with real repo names
+     2. Delete the opening and closing comment markers around this block
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najeebahmad07&" alt="najeebahmad07" /></p>
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/najeebahmad07/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najeebahmad07&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117" alt="Project 1" />
+  </a>
+  <a href="https://github.com/najeebahmad07/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najeebahmad07&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117" alt="Project 2" />
+  </a>
+</div>
+
+     ░░░░░░░░░░ END PINNED PROJECTS ░░░░░░░░░░ -->
+
+<!-- ░░░░░░░░░░ LATEST BLOG POSTS (needs blog-post.yml workflow) ░░░░░░░░░░ -->
+## ✍️ Latest from My Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Visit my blog to read the latest articles](http://najeebahmad07.blogspot.com/)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
+
+<!-- ░░░░░░░░░░ SUPPORT ░░░░░░░░░░ -->
+## ☕ Support My Work
+
+If my articles or projects helped you, you can support me here:
+
+<a href="https://www.buymeacoffee.com/najeebahmad07">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" />
+</a>
+
+<!-- ░░░░░░░░░░ ANIMATED FOOTER ░░░░░░░░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f2a44,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+</div>
