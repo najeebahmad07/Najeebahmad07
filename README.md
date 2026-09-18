@@ -89,17 +89,6 @@ fun_fact:    "I think I'm funny 😄"
   <img src="https://github-profile-trophy.vercel.app/?username=najeebahmad07&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 </div>
 
-<!-- ░░░░░░░░░░ SNAKE ANIMATION (needs snake.yml workflow) ░░░░░░░░░░ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najeebahmad07/najeebahmad07/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najeebahmad07/najeebahmad07/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/najeebahmad07/najeebahmad07/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
 <!-- ░░░░░░░░░░ PINNED PROJECTS (optional) ░░░░░░░░░░
      1. Replace YOUR_REPO_1 / YOUR_REPO_2 with real repo names
      2. Delete the opening and closing comment markers around this block
@@ -117,12 +106,16 @@ fun_fact:    "I think I'm funny 😄"
 
      ░░░░░░░░░░ END PINNED PROJECTS ░░░░░░░░░░ -->
 
-<!-- ░░░░░░░░░░ LATEST BLOG POSTS (needs blog-post.yml workflow) ░░░░░░░░░░ -->
-## ✍️ Latest from My Blog
+<!-- ░░░░░░░░░░ BLOG ░░░░░░░░░░ -->
+## ✍️ My Blog
 
-<!-- BLOG-POST-LIST:START -->
-- [Visit my blog to read the latest articles](http://najeebahmad07.blogspot.com/)
-<!-- BLOG-POST-LIST:END -->
+I write tutorials and articles about web development and programming.
+
+<div align="center">
+  <a href="http://najeebahmad07.blogspot.com/">
+    <img src="https://img.shields.io/badge/Read%20My%20Latest%20Articles-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Read my blog" />
+  </a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
 
