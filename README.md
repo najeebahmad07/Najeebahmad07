@@ -1,131 +1,114 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<div align="center">
+<!-- ═════════════════════ HERO ═════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:bd93f9,50:ff79c6,100:8be9fd&height=240&section=header&text=Najeeb%20Ahmad&fontSize=60&fontColor=0d1117&fontAlignY=42&desc=Web%20Developer%20%C2%B7%20Tech%20Blogger&descSize=20&descAlignY=64&descColor=0d1117" width="100%" alt="Najeeb Ahmad" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:161b22,100:58a6ff&height=260&section=header&text=NAJEEB%20AHMAD&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Tech%20Blogger%20%E2%80%A2%20Code%20%26%20Coffee&descSize=18&descAlignY=60&descColor=9ecbff" width="100%" alt="Najeeb Ahmad banner" />
+<p align="center">
+  <a href="https://najeebahmad07.xyz/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Najeeb+Ahmad;%24+skills+--list+%E2%86%92+HTML+%7C+CSS+%7C+JS+%7C+PHP;%24+cms+%E2%86%92+WordPress+%2B+Bootstrap;%24+also+%E2%86%92+C+%7C+C%2B%2B+%7C+Java;%24+status+%E2%86%92+coding+%26+blogging+%E2%98%95" alt="Typing" />
+  </a>
+</p>
 
-<a href="https://najeebahmad07.xyz/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Hi+there%2C+I%27m+Najeeb+%F0%9F%91%8B;I+build+fast%2C+clean+%26+responsive+websites;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;WordPress+%7C+PHP+%7C+MySQL;I+also+write+C%2C+C%2B%2B+%26+Java;I+think+I%27m+funny+%F0%9F%98%84+(the+bugs+disagree)" alt="Typing animation" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=najeebahmad07&label=VISITORS&color=bd93f9&style=flat-square&labelColor=282a36" alt="views" />
+  <img src="https://img.shields.io/github/followers/najeebahmad07?style=flat-square&color=ff79c6&labelColor=282a36" alt="followers" />
+  <img src="https://img.shields.io/github/stars/najeebahmad07?style=flat-square&color=8be9fd&labelColor=282a36" alt="stars" />
+</p>
 
-<br/>
+<!-- ═════════════════════ TERMINAL ═════════════════════ -->
+```bash
+najeeb@dev:~$ neofetch
 
-<img src="https://komarev.com/ghpvc/?username=najeebahmad07&label=Profile%20Views&color=58a6ff&style=flat-square&labelColor=0d1117" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/najeebahmad07?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/najeebahmad07?label=Stars&style=flat-square&color=58a6ff&labelColor=0d1117" alt="Stars" />
+   ███╗   ██╗     ┌───────────────────────────────────────────┐
+   ████╗  ██║     │  👤  Name      Najeeb Ahmad                │
+   ██╔██╗ ██║     │  💼  Role      Web Developer & Tech Blogger│
+   ██║╚██╗██║     │  🌐  Site      najeebahmad07.xyz           │
+   ██║ ╚████║     │  🎨  Frontend  HTML · CSS · JS · Bootstrap │
+   ╚═╝  ╚═══╝     │  ⚙️  Backend   PHP · MySQL · WordPress     │
+                   │  🧪  Also      C · C++ · Java              │
+                   │  😄  Humor     I think I'm funny           │
+                   └───────────────────────────────────────────┘
 
-<br/><br/>
-
-<a href="https://linktr.ee/najeebahmad07"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:njbdev07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/najeeb-ahmad-b40514257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/mrnajeeb07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-<a href="https://www.facebook.com/najeeb.ji.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://instagram.com/najeeb__ahmad__07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://youtube.com/@najeebahmad07"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
-
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 👨‍💻 About Me
-
-```js
-const najeeb = {
-  role: "Web Developer & Tech Blogger",
-  website: "https://najeebahmad07.xyz",
-  frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-  backend: ["PHP", "MySQL", "WordPress"],
-  alsoWrites: ["C", "C++", "Java"],
-  funFact: "I think I'm funny 😄",
-  motto: "Build it. Break it. Blog about it."
-};
+najeeb@dev:~$ _
 ```
 
-- 🌐 I build websites with clean code and responsive design
-- ✍️ I write about technology and web development on my blog
-- 🚀 Always learning, always shipping
-- 📫 Reach me at **njbdev07@gmail.com**
+<!-- ═════════════════════ CONNECT ═════════════════════ -->
+<p align="center">
+  <a href="https://linktr.ee/najeebahmad07"><img src="https://img.shields.io/badge/PORTFOLIO-bd93f9?style=flat-square&logo=googlechrome&logoColor=white&labelColor=282a36" /></a>
+  <a href="mailto:njbdev07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ff5555?style=flat-square&logo=gmail&logoColor=white&labelColor=282a36" /></a>
+  <a href="https://www.linkedin.com/in/najeeb-ahmad-b40514257/"><img src="https://img.shields.io/badge/LINKEDIN-8be9fd?style=flat-square&logo=linkedin&logoColor=white&labelColor=282a36" /></a>
+  <a href="https://twitter.com/mrnajeeb07"><img src="https://img.shields.io/badge/X-f8f8f2?style=flat-square&logo=x&logoColor=white&labelColor=282a36" /></a>
+  <a href="https://www.facebook.com/najeeb.ji.5"><img src="https://img.shields.io/badge/FACEBOOK-6272a4?style=flat-square&logo=facebook&logoColor=white&labelColor=282a36" /></a>
+  <a href="https://instagram.com/najeeb__ahmad__07"><img src="https://img.shields.io/badge/INSTAGRAM-ff79c6?style=flat-square&logo=instagram&logoColor=white&labelColor=282a36" /></a>
+  <a href="https://youtube.com/@najeebahmad07"><img src="https://img.shields.io/badge/YOUTUBE-ff5555?style=flat-square&logo=youtube&logoColor=white&labelColor=282a36" /></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
+---
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ Tech Stack
+### ⚡ What I Do
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Frontend**
+**🎨 Build**<br/>
+Responsive, fast and clean websites using HTML, CSS, JavaScript and Bootstrap.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend" />
+</td>
+<td width="33%" valign="top">
 
-**Backend & CMS**
+**⚙️ Power**<br/>
+Dynamic sites with PHP, MySQL and WordPress, from themes to full setups.
 
-<img src="https://skillicons.dev/icons?i=php,mysql,wordpress&theme=dark" alt="Backend" />
+</td>
+<td width="33%" valign="top">
 
-**Languages**
+**✍️ Share**<br/>
+I write about tech and web development on my blog, so others can learn faster.
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" alt="Languages" />
+</td>
+</tr>
+</table>
 
-**Tools**
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
+### 🧰 Tech Arsenal
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-ff79c6?style=for-the-badge&logo=html5&logoColor=white&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/CSS3-bd93f9?style=for-the-badge&logo=css3&logoColor=white&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/JavaScript-f1fa8c?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Bootstrap-bd93f9?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/PHP-8be9fd?style=for-the-badge&logo=php&logoColor=black&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/MySQL-50fa7b?style=for-the-badge&logo=mysql&logoColor=black&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/WordPress-8be9fd?style=for-the-badge&logo=wordpress&logoColor=black&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/C-6272a4?style=for-the-badge&logo=c&logoColor=white&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/C++-ff79c6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Java-ffb86c?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Git-ff5555?style=for-the-badge&logo=git&logoColor=white&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/GitHub-f8f8f2?style=for-the-badge&logo=github&logoColor=black&labelColor=282a36" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
+---
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-## 📊 GitHub Stats
+### 📊 Dev Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=najeebahmad07&show_icons=true&theme=dracula&hide_border=true&count_private=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najeebahmad07&layout=compact&theme=dracula&hide_border=true&langs_count=8&border_radius=12" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=najeebahmad07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7b61ff&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najeebahmad07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Top languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=najeebahmad07&theme=dracula&hide_border=true&border_radius=12" />
+</p>
 
-<br/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=najeebahmad07&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=najeebahmad07&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff4ecd&currStreakLabel=58a6ff" alt="GitHub streak" />
+---
 
-</div>
+<p align="center">
+  <a href="https://najeebahmad07.xyz/"><img src="https://img.shields.io/badge/📖%20READ%20MY%20BLOG-bd93f9?style=for-the-badge&labelColor=282a36" /></a>
+  <a href="mailto:njbdev07@gmail.com"><img src="https://img.shields.io/badge/💌%20WORK%20WITH%20ME-ff79c6?style=for-the-badge&labelColor=282a36" /></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
-
-<!-- ═══════════════ ACTIVITY ═══════════════ -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=najeebahmad07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=7b61ff&point=ff4ecd&area=true&area_color=58a6ff" alt="Activity graph" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
-
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=najeebahmad07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:7b61ff,100:ff4ecd&height=2" width="100%" alt="divider" />
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-Have a project in mind, or just want to say hi? I'd love to hear from you.
-
-<a href="https://najeebahmad07.xyz/"><img src="https://img.shields.io/badge/Visit%20My%20Blog-58a6ff?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0d1117" alt="Blog" /></a>
-<a href="mailto:njbdev07@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-7b61ff?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117" alt="Hire me" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=9ECBFF&center=true&vCenter=true&width=600&lines=%22Talk+is+cheap.+Show+me+the+code.%22;Thanks+for+stopping+by+%E2%9D%A4%EF%B8%8F" alt="Footer quote" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:58a6ff&height=140&section=footer" width="100%" alt="footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,50:ff79c6,100:8be9fd&height=120&section=footer" width="100%" alt="footer" />
