@@ -1,15 +1,13 @@
 
-<!-- ═════════════════════ ANIMATED HERO ═════════════════════ -->
-
 <p align="center">
   <a href="https://linktr.ee/najeebahmad07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=900&color=BD93F9&center=true&vCenter=true&width=800&height=80&lines=Najeeb+Ahmad;Full+Stack+Developer;MERN+Stack+Developer;Building+Ideas+Into+Reality" alt="Najeeb Ahmad - Full Stack Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=900&color=BD93F9&center=true&vCenter=true&width=800&height=80&lines=Najeeb+Ahmad;Full+Stack+Developer;Web+Application+Developer;SaaS+Product+Developer;Building+Ideas+Into+Reality" alt="Najeeb Ahmad - Full Stack Developer" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-bd93f9?style=flat-square&labelColor=282a36" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/MERN-STACK-50fa7b?style=flat-square&labelColor=282a36" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/WEB%20%26%20SOFTWARE-DEVELOPMENT-ff79c6?style=flat-square&labelColor=282a36" alt="Web and Software Development" />
 </p>
 
 <p align="center">
@@ -19,8 +17,6 @@
 </p>
 
 ---
-
-<!-- ═════════════════════ DEVELOPER TERMINAL ═════════════════════ -->
 
 <h2 align="center">🖥️ Developer Terminal</h2>
 
@@ -33,38 +29,34 @@ najeeb@dev:~$ neofetch
   ██║╚██╗██║   │ Portfolio  : linktr.ee/najeebahmad07             │
   ██║ ╚████║   │ Frontend   : React · HTML · CSS · JavaScript     │
   ╚═╝  ╚═══╝   │ Backend    : Node.js · Express.js · PHP          │
-                │ Database   : MongoDB · MySQL                     │
-                │ Stack      : MERN · PHP · MySQL                  │
-                │ Platforms  : WordPress · Shopify · Wix          │
-                │ Languages  : Python · Java · C · C++            │
-                │ Humor      : I think I'm funny                   │
-                └──────────────────────────────────────────────────┘
+               │ Database   : MongoDB · MySQL                     │
+               │ Stack      : MERN · PHP · MySQL                  │
+               │ Platforms  : WordPress · Shopify · Wix           │
+               │ Languages  : Python · Java · C · C++             │
+               │ Humor      : I think I'm funny                   │
+               └──────────────────────────────────────────────────┘
 
 najeeb@dev:~$ _
 ```
 
 ---
 
-<!-- ═════════════════════ ABOUT ME ═════════════════════ -->
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Hey! I'm <strong>Najeeb Ahmad</strong>, a Full Stack Developer passionate about building modern websites, web applications, and digital solutions.
+  Hey! I'm <strong>Najeeb Ahmad</strong>, a Full Stack Developer passionate about building modern websites, web applications, SaaS platforms, and digital solutions.
 </p>
 
 <p align="center">
-  I enjoy turning ideas into practical digital products, exploring new technologies, and continuously improving my development skills.
+  I enjoy turning ideas into practical digital products, solving real-world problems through technology, and continuously improving my development skills.
 </p>
 
 - 🔭 Building websites, web applications, and SaaS solutions.
 - 🌱 Exploring modern full-stack development and AI-powered tools.
-- 💡 Passionate about solving problems through technology.
+- 💡 Passionate about creating useful, scalable digital products.
 - 🤝 Open to collaboration and exciting development projects.
 
 ---
-
-<!-- ═════════════════════ CONNECT ═════════════════════ -->
 
 <h2 align="center">🤝 Connect With Me</h2>
 
@@ -94,34 +86,62 @@ najeeb@dev:~$ _
 
 ---
 
-<!-- ═════════════════════ WHAT I DO ═════════════════════ -->
-
 <h2 align="center">⚡ What I Do</h2>
 
 <table>
   <tr>
-    <td width="25%" valign="top">
-      <h3 align="center">🎨 Frontend</h3>
-      <p>Building modern, responsive, and user-friendly web interfaces.</p>
+    <td width="50%" valign="top">
+      <h3>🌐 Website Development</h3>
+      <p>Creating modern, responsive, SEO-friendly business websites, portfolio websites, landing pages, and corporate websites.</p>
     </td>
-    <td width="25%" valign="top">
-      <h3 align="center">⚙️ Backend</h3>
-      <p>Developing server-side applications, APIs, authentication, and business logic.</p>
+    <td width="50%" valign="top">
+      <h3>💻 Web Application Development</h3>
+      <p>Building dynamic web applications with authentication, dashboards, APIs, database integration, and custom business logic.</p>
     </td>
-    <td width="25%" valign="top">
-      <h3 align="center">🗄️ Database</h3>
-      <p>Designing and managing reliable database systems.</p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 SaaS Product Development</h3>
+      <p>Developing SaaS platforms with multi-user access, subscription workflows, role-based permissions, reporting, and administration tools.</p>
     </td>
-    <td width="25%" valign="top">
-      <h3 align="center">🛒 Platforms</h3>
-      <p>Creating business websites and e-commerce experiences.</p>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce Development</h3>
+      <p>Building online stores with product catalogs, shopping carts, checkout, payment gateway integration, order management, and admin panels.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Powered Software</h3>
+      <p>Integrating AI capabilities, intelligent automation, AI-assisted workflows, and API-powered features into modern software products.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 School & Institute Software</h3>
+      <p>Developing student management systems, admission portals, fee management, attendance, examinations, results, certificates, and institute dashboards.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Business & Management Systems</h3>
+      <p>Creating accounting systems, employee management, project tracking, inventory management, reports, and business automation tools.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 API & Backend Development</h3>
+      <p>Developing REST APIs, backend services, database architectures, third-party integrations, payment systems, and secure application workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 UI/UX & Dashboard Development</h3>
+      <p>Designing clean, responsive interfaces, admin panels, analytics dashboards, and user-friendly digital experiences.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 SEO & Website Optimization</h3>
+      <p>Improving website performance, technical SEO, page speed, mobile responsiveness, and search engine visibility.</p>
     </td>
   </tr>
 </table>
 
 ---
-
-<!-- ═════════════════════ TECH ARSENAL ═════════════════════ -->
 
 <h2 align="center">🧰 Tech Arsenal</h2>
 
@@ -174,15 +194,13 @@ najeeb@dev:~$ _
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/C++-282A36?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-282A36?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
   <img src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
 ---
-
-<!-- ═════════════════════ GITHUB STATISTICS ═════════════════════ -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -196,22 +214,6 @@ najeeb@dev:~$ _
 </p>
 
 ---
-
-<!-- ═════════════════════ CONTRIBUTION GRAPH ═════════════════════ -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=najeebahmad07&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    alt="Najeeb Ahmad's GitHub Contribution Activity Graph"
-  />
-</p>
-
----
-
-<!-- ═════════════════════ CONTACT ═════════════════════ -->
 
 <h2 align="center">📬 Let's Build Something Together</h2>
 
