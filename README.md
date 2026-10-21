@@ -1,9 +1,9 @@
 <!-- ═════════════════════ HERO ═════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:bd93f9,50:ff79c6,100:8be9fd&height=240&section=header&text=Najeeb%20Ahmad&fontSize=60&fontColor=0d1117&fontAlignY=42&desc=Web%20Developer%20%C2%B7%20Tech%20Blogger&descSize=20&descAlignY=64&descColor=0d1117" width="100%" alt="Najeeb Ahmad" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:bd93f9,50:ff79c6,100:8be9fd&height=240&section=header&text=Najeeb%20Ahmad&fontSize=60&fontColor=0d1117&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Tech%20Blogger&descSize=20&descAlignY=64&descColor=0d1117" width="100%" alt="Najeeb Ahmad" />
 
 <p align="center">
   <a href="https://najeebahmad07.xyz/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Najeeb+Ahmad;%24+skills+--list+%E2%86%92+HTML+%7C+CSS+%7C+JS+%7C+PHP;%24+cms+%E2%86%92+WordPress+%2B+Bootstrap;%24+also+%E2%86%92+C+%7C+C%2B%2B+%7C+Java;%24+status+%E2%86%92+coding+%26+blogging+%E2%98%95" alt="Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1000&color=BD93F9&center=true&vCenter=true&width=760&height=40&lines=%24+whoami+%E2%86%92+Najeeb+Ahmad;%24+role+%E2%86%92+Full+Stack+Developer;%24+frontend+%E2%86%92+React+%7C+HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;%24+backend+%E2%86%92+Python+%7C+PHP+%7C+MySQL;%24+platforms+%E2%86%92+WordPress+%7C+Shopify+%7C+Wix+%7C+Laravel;%24+status+%E2%86%92+coding+%26+blogging+%E2%98%95" alt="Typing" />
   </a>
 </p>
 
@@ -17,15 +17,16 @@
 ```bash
 najeeb@dev:~$ neofetch
 
-   ███╗   ██╗     ┌───────────────────────────────────────────┐
-   ████╗  ██║     │  👤  Name      Najeeb Ahmad                │
-   ██╔██╗ ██║     │  💼  Role      Web Developer & Tech Blogger│
-   ██║╚██╗██║     │  🌐  Site      najeebahmad07.xyz           │
-   ██║ ╚████║     │  🎨  Frontend  HTML · CSS · JS · Bootstrap │
-   ╚═╝  ╚═══╝     │  ⚙️  Backend   PHP · MySQL · WordPress     │
-                   │  🧪  Also      C · C++ · Java              │
-                   │  😄  Humor     I think I'm funny           │
-                   └───────────────────────────────────────────┘
+  ███╗   ██╗   ┌──────────────────────────────────────────────────┐
+  ████╗  ██║   │ Name       : Najeeb Ahmad                        │
+  ██╔██╗ ██║   │ Role       : Full Stack Developer & Tech Blogger │
+  ██║╚██╗██║   │ Website    : najeebahmad07.xyz                   │
+  ██║ ╚████║   │ Frontend   : React · HTML · CSS · JS · Bootstrap │
+  ╚═╝  ╚═══╝   │ Backend    : Python · PHP · MySQL                │
+                │ Platforms  : WordPress · Shopify · Wix · Laravel │
+                │ Also       : C · C++ · Java                      │
+                │ Humor      : I think I'm funny                   │
+                └──────────────────────────────────────────────────┘
 
 najeeb@dev:~$ _
 ```
@@ -47,22 +48,28 @@ najeeb@dev:~$ _
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-**🎨 Build**<br/>
-Responsive, fast and clean websites using HTML, CSS, JavaScript and Bootstrap.
-
-</td>
-<td width="33%" valign="top">
-
-**⚙️ Power**<br/>
-Dynamic sites with PHP, MySQL and WordPress, from themes to full setups.
+**🎨 Frontend**<br/>
+Modern, responsive interfaces with React, HTML, CSS, JavaScript and Bootstrap.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-**✍️ Share**<br/>
-I write about tech and web development on my blog, so others can learn faster.
+**⚙️ Backend**<br/>
+Server-side logic, APIs and databases with Python, PHP, MySQL and Laravel.
+
+</td>
+<td width="25%" valign="top">
+
+**🛒 Platforms**<br/>
+Custom sites and stores on WordPress, Shopify, Wix and more.
+
+</td>
+<td width="25%" valign="top">
+
+**✍️ Blogging**<br/>
+I write about tech and development on my blog to help others learn.
 
 </td>
 </tr>
@@ -72,14 +79,36 @@ I write about tech and web development on my blog, so others can learn faster.
 
 ### 🧰 Tech Arsenal
 
+**Frontend**
+
 <p>
+  <img src="https://img.shields.io/badge/React-8be9fd?style=for-the-badge&logo=react&logoColor=black&labelColor=282a36" />
   <img src="https://img.shields.io/badge/HTML5-ff79c6?style=for-the-badge&logo=html5&logoColor=white&labelColor=282a36" />
   <img src="https://img.shields.io/badge/CSS3-bd93f9?style=for-the-badge&logo=css3&logoColor=white&labelColor=282a36" />
   <img src="https://img.shields.io/badge/JavaScript-f1fa8c?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282a36" />
   <img src="https://img.shields.io/badge/Bootstrap-bd93f9?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=282a36" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-50fa7b?style=for-the-badge&logo=python&logoColor=black&labelColor=282a36" />
   <img src="https://img.shields.io/badge/PHP-8be9fd?style=for-the-badge&logo=php&logoColor=black&labelColor=282a36" />
-  <img src="https://img.shields.io/badge/MySQL-50fa7b?style=for-the-badge&logo=mysql&logoColor=black&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Laravel-ff5555?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/MySQL-ffb86c?style=for-the-badge&logo=mysql&logoColor=black&labelColor=282a36" />
+</p>
+
+**CMS & Platforms**
+
+<p>
   <img src="https://img.shields.io/badge/WordPress-8be9fd?style=for-the-badge&logo=wordpress&logoColor=black&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Shopify-50fa7b?style=for-the-badge&logo=shopify&logoColor=black&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Wix-f8f8f2?style=for-the-badge&logo=wix&logoColor=black&labelColor=282a36" />
+</p>
+
+**Languages & Tools**
+
+<p>
   <img src="https://img.shields.io/badge/C-6272a4?style=for-the-badge&logo=c&logoColor=white&labelColor=282a36" />
   <img src="https://img.shields.io/badge/C++-ff79c6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=282a36" />
   <img src="https://img.shields.io/badge/Java-ffb86c?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=282a36" />
