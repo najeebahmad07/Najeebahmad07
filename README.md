@@ -73,7 +73,7 @@ najeeb@dev:~$ _
   <a href="https://twitter.com/mrnajeeb07">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282a36" alt="X" />
   </a>
-  <a href="https://www.facebook.com/najeeb.ji.5">
+  <a href="https://www.facebook.com/najeebahmad07/">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=282a36" alt="Facebook" />
   </a>
   <a href="https://instagram.com/najeeb__ahmad__07">
